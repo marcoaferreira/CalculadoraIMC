@@ -1,10 +1,11 @@
 
 # Calculadora de IMC (Índice de Massa Corporal)
-An Android app to calculate your Body Mass Index
+An Android app to calculate your Body Mass Index.
+I developed this application as my first steps on android development. 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/initialScreen.png" width="260">&emsp;<img src="/result/NumericKeyboard.png" width="260">;<img src="/result/dataValidation.png" width="260">; <img src="/result/result.png" width="260">
+<img src="/result/initialScreen.png" width="260">&emsp;<img src="/result/NumericKeyboard.png" width="260">;<img src="/result/result.png" width="260">
 
 ## Knowledge Stack
 * Kotlin
@@ -22,7 +23,7 @@ An Android app to calculate your Body Mass Index
 * String resource for text concatenation
 
 ### TODO
-* App stayling
+* Improve App styling
 
 ## Author
 Marco Ferreira(follow me on [Linkedin](https://www.linkedin.com/in/marco-ferreira-01854013/))

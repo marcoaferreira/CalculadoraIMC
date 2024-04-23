@@ -4,7 +4,7 @@ An Android app to calculate your Body Mass Index
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/initialScreen.png" width="260">&emsp;<img src="/result/NumericKeyboard.png" width="260">&emsp;<img src="/result/dataValidation.png" width="260"; <img src="/result/result.png" width="260">
+<img src="/result/initialScreen.png" width="260">&emsp;<img src="/result/NumericKeyboard.png" width="260">;<img src="/result/dataValidation.png" width="260">; <img src="/result/result.png" width="260">
 
 ## Knowledge Stack
 * Kotlin
@@ -23,9 +23,6 @@ An Android app to calculate your Body Mass Index
 
 ### TODO
 * App stayling
-
-## Artifact
-You can find a version [here](/results/app.apk). 
 
 ## Author
 Marco Ferreira(follow me on [Linkedin](https://www.linkedin.com/in/marco-ferreira-01854013/))

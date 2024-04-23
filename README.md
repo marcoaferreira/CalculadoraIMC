@@ -1,6 +1,7 @@
 
 # Calculadora de IMC (Índice de Massa Corporal)
 An Android app to calculate your Body Mass Index.
+
 I developed this application as my first steps on android development. 
 
 ## :camera_flash: Screenshots
